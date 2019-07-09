@@ -1,0 +1,34 @@
+﻿Category,ID,term,genes,adj_pval
+Canonical pathway,1,Nucleotide excision repair Pathway,"COPS4,POLR2F,UVSSA,COPS7A,GTF2H2,XPA,XRCC1,POLR2A,H3F3B,ERCC3,TOP2A,GTF2H1,POLD2",7.15E-06
+Canonical pathway,2,Clathrin-mediated Endocytosis Signaling,"ACTR2,RAB5C,PIK3R1,AP1S2,SH3GL3,CLTB,GAK,AP2S1,HSPA8,GAB1,PPP3CB,FGF12,UBC,ITGB5,DNM2,ARPC4,APOD",0.001631038
+Canonical pathway,3,Unfolded protein response,"HSPA8,SREBF1,HSPH1,XBP1,OS9,HSPA5,EIF2A",0.002017765
+Canonical pathway,4,ATM Signaling,"MDM4,ATF1,PPP2R2A,GADD45G,RAD17,MRE11A,ZEB1,BRCA1,CDK1,CCNB1",0.002248132
+Canonical pathway,5,Assembly of RNA Polymerase I Complex,"POLR2F,POLR1B,UBTF",0.004412813
+Cellular function,6,Stabilization of filaments,"APC,DYNLT1C,MBP,STK11",0.0068
+Cellular function,7,Transport of vesicles,"APC,Cd24a,DNM2,HSPA8,IGF1R,NLGN1,P2RX7,PPP3CB,SPTBN2,SYT1,TOR1A",0.00734
+Canonical pathway,8,Estrogen Receptor Signaling,"POLR2F,DDX5,POLR2A,H3F3B,MED23,MED1,ERCC3,MED10,SOS1,GTF2H2,GTF2H1,GTF2A1",0.008032484
+Cellular function,9,Apoptosis,"CASP9,CCNB1,CDK1,CDKN2D,CFLAR,CSPG4,DDIT4,DIABLO,EGR1,EIF2A,FTH1,GAL,HSPA5,ID2,IGF1R,Irgm1,ITSN1,MAP3K1,MAP3K4,MDM4,MEF2D,MOG,MRE11A,MYRF,NDN,PIK3R1,PLP1,PPP3CB,PRMT5,PTGDS,RPS3,SERPINA3N,SGK1,SREBF1,TNFRSF21,XBP1,XPA",0.00811
+Cellular function,10,Ensheathment of axons,"CLDN11,MBP,PLP1",0.00818
+Cellular function,11,Survival of ganglion cells,"CX3CR1,EHD4,GFRA2,HBEGF,MOG",0.00967
+Cellular function,12,Demyelination of brain,"HSPA5,MOG,MYRF",0.0113
+Canonical pathway,13,Assembly of RNA Polymerase II Complex,"POLR2F,POLR2A,ERCC3,GTF2H2,GTF2H1,GTF2A1",0.012493468
+Cellular function,14,Abnormal morphology of neurites,"CKB,GFRA2,MAG,MOG,NEFL,Nefm,PAK5,PARD3,PCDH9,PLP1,Pou3f1,SERPINA3,SLC12A6,Spg20,STUB1,VCAN,XPA",0.0137
+Cellular function,15,Development of neuroglia,"DAG1,DDIT4,HES5,ID2,MYRF,OLIG1,OLIG2,Pou3f1,SOX4",0.0149
+Canonical pathway,16,Cell Cycle: G2/M DNA Damage Checkpoint Regulation,"MDM4,CKS2,TOP2A,BRCA1,CDK1,CCNB1",0.016226712
+Cellular function,17,Differentiation of astrocytes,"CNTFR,HES5,METRN,OLIG2,VCAN",0.0173
+Cellular function,18,Size of neurites,"NEFL,Nefm,XPA",0.0192
+Cellular function,19,Production of cells,"MOG,OLIG1,OLIG2,REST,SOX4",0.0223
+Cellular function,20,Demyelination of nerves,"DAG1,HSPA5,MAG,MYRF,PLP1,SLC12A6",0.023
+Cellular function,21,Movement of organelle,"APC,NEFL,STK11",0.024
+Canonical pathway,22,Protein Ubiquitination Pathway,"USP38,HSPH1,UBR2,PSMD9,UBE2W,HSPA5,DNAJA1,HSPA8,ANAPC4,HSP90AB1,STUB1,UBE2V1,USP47,PSMA5,BAP1,DNAJB1,BRCA1,UBC,UBE2C",0.024339967
+Cellular function,23,Quantity of oligodendrocytes,"GJB6,HIVEP2,IGF1R,OLIG2,PLP1,TNFRSF21",0.0253
+Cellular function,24,Stabilization of microtubules,"APC,MBP,STK11",0.0294
+Cellular function,25,Cell survival,"ACSL5,CDK1,CNTFR,CX3CR1,DNM2,EGR1,EHD4,EN1,GFRA2,GPR17,HBEGF,HDAC5,HSPA5,IGF1R,KCNIP3,MOG,NEFL,PEG3,PLP1,SLC1A2,UPF1,XBP1",0.031
+Canonical pathway,26,EIF2 Signaling,"PIK3R1,EIF3J1,EIF2S3X,HSPA5,EIF2A,RPL28,RPL15,RPL35,Ppp1cc,GAB1,RPL13,SREBF1,SOS1,IGF1R,RPL37,RPS3,EIF3K",0.034571613
+Cellular function,27,Quantity of oligodendrocyte precursor cells,"IGF1R,OLIG2,PLP1",0.0355
+Cellular function,28,Production of neurons,"OLIG1,OLIG2,REST,SOX4",0.0378
+Cellular function,29,Loss of neurites,"MAG,MOG,PARD3,Pou3f1,SERPINA3",0.0424
+Cellular function,30,Quantity of filaments,"CX3CR1,IGF1R,MBP,NEFL,Nefm",0.0424
+Cellular function,31,Differentiation of oligodendrocytes,"DAG1,GPR17,HES5,ID2,MYRF,NLGN3,OLIG1,OLIG2,PRMT5,VCAN",0.0443
+Cellular function,32,Cell viability,"ACSL5,CDK1,CX3CR1,DNM2,EGR1,EHD4,EN1,GFRA2,GPR17,HBEGF,HDAC5,HSPA5,IGF1R,KCNIP3,MOG,NEFL,PEG3,PLP1,SLC1A2,UPF1,XBP1",0.0477
+Cellular function,33,Maturation of oligodendrocytes,"MAG,OLIG1,TNFRSF21",0.0493
